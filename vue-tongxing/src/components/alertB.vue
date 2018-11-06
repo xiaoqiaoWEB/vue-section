@@ -35,10 +35,7 @@ export default {
   methods: {
     cHandel() {
       console.log('点击了OK按钮');
-      this.$emit("change");
-      this.$emit("update:appShow",false);
-      this.$emit("update:isRed",true);
-      console.log(this.appShow);
+      this.$emit("input",false);
     }
   }
 }

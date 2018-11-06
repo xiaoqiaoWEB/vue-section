@@ -103,7 +103,7 @@ register-service-worker
 	组件上也可以写v-model
 		v-model 语法糖
 			传入value值
-			监听input事件
+			监听input事件	----  chang事件
 
 
 组件可以复用 通用    
