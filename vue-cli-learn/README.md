@@ -33,5 +33,7 @@ vue init webpack app-name
 vue init webpack-simple app-name
 
 
+- 数据的 双向绑定
+
 
 
