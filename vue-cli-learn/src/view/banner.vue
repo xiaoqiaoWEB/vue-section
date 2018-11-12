@@ -1,4 +1,5 @@
 <template>
+    <!-- banner  左右滑动  向右箭头还没有实现 -->
     <div class="banner-container">
         <div class="banner-top">
              <ul :style="{width: bigUlWidth}" ref="bigImg">
