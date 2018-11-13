@@ -35,5 +35,9 @@ vue init webpack-simple app-name
 
 - 数据的 双向绑定
 
+- v-bing on-click 简写 --  ：  @     case---todolist
+
+
+
 
 
